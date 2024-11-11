@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAWfihDWUndoPsz6e4ZmTGT2ikQOfO9H1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>332227573800</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.speakApplication2</string>
+	<key>PROJECT_ID</key>
+	<string>rikcspeakfamily</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rikcspeakfamily.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:332227573800:ios:9174a05b7534cc51ac1d1d</string>
+</dict>
+</plist>
